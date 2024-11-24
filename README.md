@@ -1,3 +1,6 @@
+/project-directory
+    ├── index.html
+    └── styles.css
 <!DOCTYPE html>
 <html lang="en">
 <head>
